@@ -1,123 +1,123 @@
 {
-  "Mahasiswa" : [{
+  "mahasiswa" : [{
   "id": 1,
-  "name": "Karmen Carlett",
+  "name": "Gipsy Wemyss",
   "gender": "Female"
 }, {
   "id": 2,
-  "name": "Alon Dusey",
-  "gender": "Male"
+  "name": "Louella Forsythe",
+  "gender": "Female"
 }, {
   "id": 3,
-  "name": "Amitie Dewdeny",
+  "name": "Wendeline Hryniewicki",
   "gender": "Female"
 }, {
   "id": 4,
-  "name": "Myrle Cosham",
+  "name": "Anestassia Skews",
   "gender": "Female"
 }, {
   "id": 5,
-  "name": "Amalle Peddar",
-  "gender": "Female"
-}, {
-  "id": 6,
-  "name": "Ban Raeburn",
+  "name": "Baxy Bravery",
   "gender": "Male"
 }, {
-  "id": 7,
-  "name": "Lindie Vittore",
+  "id": 6,
+  "name": "Debi Poundford",
   "gender": "Female"
 }, {
+  "id": 7,
+  "name": "Merill Fergyson",
+  "gender": "Male"
+}, {
   "id": 8,
-  "name": "Bridie Avrashin",
+  "name": "Larisa Kingaby",
   "gender": "Female"
 }, {
   "id": 9,
-  "name": "Octavia Bassford",
+  "name": "Christabella Jerratsch",
   "gender": "Female"
 }, {
   "id": 10,
-  "name": "Dyann Tyrone",
-  "gender": "Female"
-}, {
-  "id": 11,
-  "name": "Lydon Zellick",
+  "name": "Igor Shirrell",
   "gender": "Male"
 }, {
+  "id": 11,
+  "name": "Violante Heynel",
+  "gender": "Female"
+}, {
   "id": 12,
-  "name": "Neda Mannagh",
+  "name": "Marrilee Wytchard",
   "gender": "Female"
 }, {
   "id": 13,
-  "name": "Fulton Monteath",
-  "gender": "Male"
+  "name": "Jenn Houndsom",
+  "gender": "Female"
 }, {
   "id": 14,
-  "name": "Elmer Neagle",
+  "name": "Marlow Persich",
   "gender": "Male"
 }, {
   "id": 15,
-  "name": "Lauren Cambridge",
+  "name": "Kirsteni Ashling",
   "gender": "Female"
 }, {
   "id": 16,
-  "name": "Zechariah Stooders",
+  "name": "Jamill Dowzell",
   "gender": "Male"
 }, {
   "id": 17,
-  "name": "Reine Baxstair",
+  "name": "Loren Redholes",
   "gender": "Female"
 }, {
   "id": 18,
-  "name": "Augusta Chastel",
-  "gender": "Female"
+  "name": "Curtice Bolton",
+  "gender": "Male"
 }, {
   "id": 19,
-  "name": "Ferd Koppke",
+  "name": "Vidovik Poolman",
   "gender": "Male"
 }, {
   "id": 20,
-  "name": "Yves Eke",
-  "gender": "Male"
+  "name": "Karleen Escoffier",
+  "gender": "Female"
 }, {
   "id": 21,
-  "name": "Ursulina Kopisch",
+  "name": "Gerta Klementz",
   "gender": "Female"
 }, {
   "id": 22,
-  "name": "Doe Wateridge",
-  "gender": "Female"
+  "name": "Burgess Baggalley",
+  "gender": "Male"
 }, {
   "id": 23,
-  "name": "Rafaelia Dupoy",
-  "gender": "Female"
+  "name": "Leland Iglesia",
+  "gender": "Male"
 }, {
   "id": 24,
-  "name": "Horst Fisbey",
+  "name": "Stefano Pappi",
   "gender": "Male"
 }, {
   "id": 25,
-  "name": "Arie Dusey",
-  "gender": "Male"
+  "name": "Lilly Blazey",
+  "gender": "Female"
 }, {
   "id": 26,
-  "name": "Hugo Rhoades",
+  "name": "Von Yalden",
   "gender": "Male"
 }, {
   "id": 27,
-  "name": "Stephanus Payne",
-  "gender": "Male"
-}, {
-  "id": 28,
-  "name": "Gwennie Kief",
+  "name": "Kathi Nys",
   "gender": "Female"
 }, {
+  "id": 28,
+  "name": "Thadeus Collens",
+  "gender": "Male"
+}, {
   "id": 29,
-  "name": "Gael Wigin",
+  "name": "Seth Scrine",
   "gender": "Male"
 }, {
   "id": 30,
-  "name": "Natalie Ganning",
+  "name": "Janey Nuttall",
   "gender": "Female"
 }]
 }
